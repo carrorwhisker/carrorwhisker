@@ -1,10 +1,15 @@
 ## Hi there 👋
 
 <p align="center">
-![Github Stats](https://github-readme-stats.vercel.app/api?username=carrorwhisker&show_icons=true&theme=dark&count_private=true)
-  </p>
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carrorwhisker&theme=dark&layout=compact)
+  <a href="![Github Stats](https://github-readme-stats.vercel.app/api?username=carrorwhisker&show_icons=true&theme=dark&count_private=true)"></a>
 
+  </p>
+  <p align="center">
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=carrorwhisker&theme=dark&layout=compact)
+ </p>
+
+
+ 
 <!--
 **carrorwhisker/carrorwhisker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
