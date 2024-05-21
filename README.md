@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <p align="center">
-  ![Github Stats](https://github-readme-stats.vercel.app/api?username=carrorwhisker&show_icons=true&theme=dark&count_private=true)"
+  <img src="![Github Stats](https://github-readme-stats.vercel.app/api?username=carrorwhisker&show_icons=true&theme=dark&count_private=true)""></img>
 
   </p>
   <p align="center">
