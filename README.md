@@ -15,7 +15,8 @@
 <br>
 <p align="center">
   Hi, I'm Carrot, Software Developer from China
-  你好，我是赵添羽，来自中国
+  <br>
+  你好，我是Carrot，来自中国
   <br>
   🔬 Keep Going
   <br>
